@@ -5,9 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>NumPy Basics Repository</h1>
+    <h1>NumPy Basics</h1>
     <section>
-        <p><strong>Welcome to the NumPy Basics repository!</strong> This collection is aimed at helping you understand the fundamentals of NumPy, a key library for numerical computing in Python. From simple array manipulations to performing efficient operations on large datasets, this repository covers it all.</p>
+        <p><strong>Welcome to the NumPy Basics!</strong> This collection is aimed at helping you understand the fundamentals of NumPy, a key library for numerical computing in Python. From simple array manipulations to performing efficient operations on large datasets, this repository covers it all.</p>
     </section>
     <section>
         <h2>📘 Repository Overview</h2>
