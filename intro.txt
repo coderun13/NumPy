@@ -1,0 +1,7 @@
+NumPy is an open source python library that is mostly used in every field. work with numerical data in python.
+Contains multidimensional array and matrix data structures.
+used in variety of maths operations on arrays.
+Fasted than list
+access and manipulation of data is faster
+NumPy arrays are stored at one continuous place in memory unlike list
+Also optimise work with CPU
